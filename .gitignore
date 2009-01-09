@@ -1,3 +1,4 @@
 *.log
+log/development.log
 db/schema.rb
 db/schema.sql
